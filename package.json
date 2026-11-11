@@ -1,0 +1,11 @@
+{
+  "name": "micup-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.28.1",
+    "@discordjs/voice": "^0.17.0",
+    "opusscript": "^0.0.8"
+  }
+}
